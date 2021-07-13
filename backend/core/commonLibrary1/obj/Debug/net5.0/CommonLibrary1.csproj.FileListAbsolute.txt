@@ -1,0 +1,12 @@
+D:\C#Code\LunhuiApp\CommonLibrary1\bin\Debug\net5.0\CommonLibrary1.deps.json
+D:\C#Code\LunhuiApp\CommonLibrary1\bin\Debug\net5.0\CommonLibrary1.dll
+D:\C#Code\LunhuiApp\CommonLibrary1\bin\Debug\net5.0\ref\CommonLibrary1.dll
+D:\C#Code\LunhuiApp\CommonLibrary1\bin\Debug\net5.0\CommonLibrary1.pdb
+D:\C#Code\LunhuiApp\CommonLibrary1\obj\Debug\net5.0\CommonLibrary1.csprojAssemblyReference.cache
+D:\C#Code\LunhuiApp\CommonLibrary1\obj\Debug\net5.0\CommonLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Code\LunhuiApp\CommonLibrary1\obj\Debug\net5.0\CommonLibrary1.AssemblyInfoInputs.cache
+D:\C#Code\LunhuiApp\CommonLibrary1\obj\Debug\net5.0\CommonLibrary1.AssemblyInfo.cs
+D:\C#Code\LunhuiApp\CommonLibrary1\obj\Debug\net5.0\CommonLibrary1.csproj.CoreCompileInputs.cache
+D:\C#Code\LunhuiApp\CommonLibrary1\obj\Debug\net5.0\CommonLibrary1.dll
+D:\C#Code\LunhuiApp\CommonLibrary1\obj\Debug\net5.0\ref\CommonLibrary1.dll
+D:\C#Code\LunhuiApp\CommonLibrary1\obj\Debug\net5.0\CommonLibrary1.pdb
