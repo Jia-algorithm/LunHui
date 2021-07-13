@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAvvEGbsRq7UekVAXfW/DSbgAAAAACAAAAAAAQZgAAAAEAACAAAAA1AYEO3i2ve+mkiQ+SbQUQLvzI5BDmXjL6uOx8t1ps9gAAAAAOgAAAAAIAACAAAADBaWIi4t5QvxFPt65YchiiEJxS6TifXgZ4ukRvrKKpuiAAAAD52YRqlTfKaoSZBsX7wHtZFeAeniPMeMcZ5uJ9HRRo+EAAAAAXWokX0+308qOPLg40IQmzW96Ic9npkdir8r3uAqYRCah42aElciSVz8aZW6qiMnVxYZVz9j7AuMpSDzENKlwE</EncryptedPassword>
+    <History>False|2021-06-25T16:09:08.7911547Z;</History>
+  </PropertyGroup>
+</Project>
